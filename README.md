@@ -249,6 +249,3 @@ else:
 [Prediksi HepatitisC](https://app-estimasi-rumah-india-to-indonesia-xsat.streamlit.app/)
 ![Alt text](deployment.png)
 
-
-
-**---Ini adalah bagian akhir laporan---**
