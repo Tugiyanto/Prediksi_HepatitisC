@@ -268,4 +268,4 @@ else:
 
 ## Deployment
 [Prediksi HepatitisC](https://prediksihepatitisc-tugiyanto-malamb.streamlit.app/)
-
+![ALT text](deployment.png)
