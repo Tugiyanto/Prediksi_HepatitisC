@@ -49,6 +49,27 @@ Data yang digunakan dalam datasets ini berasal dari UCI Machine Learning Reposit
 - Category: Kategori diagnosis pasien (0=Blood Donor, 0s=suspect Blood Donor, 1=Hepatitis, 2=Fibrosis, 3=Cirrhosis). (object )
 
 ## Data Preparation
+disini saya akan menkoneksikan google colab menggunakan token dari akun saya :
+```bash
+from google.colab import files 
+files.upload()
+```
+
+disini saya akan membuat direktori untuk penyimpanan file kaggle.json
+```bash
+!mkdir -p ~/.kaggle 
+!cp kaggle.json ~/.kaggle/
+!chmod 600 ~/.kaggle/kaggle.json
+!ls ~/.kaggle
+```
+disini saya akan mendowload file datasetnya dari kaggle :
+```bash
+!kaggle datasets download -d fedesoriano/hepatitis-c-dataset
+```
+disini saya akan mengekstrak file dari dataset yang sudah saya download :
+```bash
+!unzip hepatitis-c-dataset.zip
+```
 
 Disini saya menggunakan beberapa library :
 
