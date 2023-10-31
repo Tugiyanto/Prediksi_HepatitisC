@@ -246,6 +246,5 @@ else:
 ```
 
 ## Deployment
-[Prediksi HepatitisC](https://app-estimasi-rumah-india-to-indonesia-xsat.streamlit.app/)
-![Alt text](deployment.png)
+[Prediksi HepatitisC](https://prediksihepatitisc-tugiyanto-malamb.streamlit.app/)
 
