@@ -32,7 +32,7 @@ Dataset yang digunakan bersumber dari [kaggle](https://www.kaggle.com/), link da
 
 Data yang digunakan dalam datasets ini berasal dari UCI Machine Learning Repository.
 
-### Variabel-variabel pada Heart Failure Prediction Dataset adalah sebagai berikut:
+### Variabel-variabel pada Dataset adalah sebagai berikut:
 
 - Age: Umur pasien dalam tahun. (int64)
 - Sex: Jenis kelamin pasien (0 untuk laki-laki, 1 untuk perempuan). (object)
