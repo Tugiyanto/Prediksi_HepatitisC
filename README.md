@@ -267,5 +267,5 @@ else:
 ```
 
 ## Deployment
-https://prediksihepatitisuas-cnkfnkkch5dfyawcxgnxwg.streamlit.app/
+https://prediksihepatitisc-tugiyanto-malamb.streamlit.app/
 ![ALT text](deployment.png)
